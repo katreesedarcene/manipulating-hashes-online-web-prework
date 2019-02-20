@@ -7,5 +7,6 @@ def second_challenge
   }
     groceries.each do |name, item|
       puts "#{item}"
+      item.each do 
     end
 end
